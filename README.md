@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RafiaShakeel
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a project relating to basic coding
+- 
